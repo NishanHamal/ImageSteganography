@@ -6,7 +6,7 @@ Here, after getting message webapp will encoding text by one time pad cypher, af
 <br>
 Installation:
 ```
-	git clone github.com/pinological/steganography-Node-JS-
+	
 	npm install
 	node app
 	visit localhost:4000 
@@ -19,7 +19,7 @@ EMAIL = <your email>
 ```
 ## Also in line no 64 app.js change 
 ```
-   from: 'peterkarki99@gmail.com', to from: '<your email>'
+   from: 'hamalnishan0@gmail.com', to from: '<your email>'
 ```
 
 <br>
